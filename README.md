@@ -5,6 +5,16 @@
 ## 🎯Overview
 **FOODSNAP** is a comprehensive dietary management application designed to revolutionize the way individuals manage their nutritional intake. Leveraging advanced technologies such as Deep Learning, Natural Language Processing (NLP), and gamification, FOODSNAP offers users a seamless and personalized experience to track, analyze, and improve their dietary habits.
 
+
+**Languages & Tools**
+- Node.js
+- Python
+- React Native
+- MongoDB
+- Microsoft Azure
+- Postman
+- Git
+
 ## 🌟 Key Features
 
 - **Deep Learning-Powered Food Analysis:** Analyzes food items using advanced Deep Learning algorithms to provide detailed nutritional information.
@@ -16,22 +26,6 @@
 - **Report Generation:** Generates customized reports to provide users with detailed insights into their dietary patterns.
 - **Goal Setting and Tracking:** Enables users to set and monitor dietary goals based on individual physical characteristics and activity levels.
 - **Allergen Alerts:** Alerts users of potential allergens in food items based on their recorded health issues.
-
-## 🔧 Technologies Used
-
-- **Node.js:** Backend development.
-- **React Native Expo:** Frontend development.
-- **Python Flask API:** Hosting NLP and DL models.
-- **Database:** MongoDB.
-- **Cloud Services:** Microsoft Azure, etc.
-
-## 📆 Project Status
-
-The project has been successfully developed, and our team has worked diligently to bring it to fruition. We greatly appreciate your support and contributions towards further improvements!
-
-## License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 👏 Thank You!
 
