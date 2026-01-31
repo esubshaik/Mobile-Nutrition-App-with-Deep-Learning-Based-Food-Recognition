@@ -76,8 +76,6 @@ mongoose
           sendExpoNotification(allusers[i].pushtoken, notificationMessage.title, notificationMessage.body);
         }
       }
-      // const expoPushToken = 'ExponentPushToken[8LSRkkItMdZQGn_lGWdF1V]';
-      // sendExpoNotification(expoPushToken, notificationMessage.title, notificationMessage.body);
     }, {
       timezone: 'Asia/Kolkata',
     });
